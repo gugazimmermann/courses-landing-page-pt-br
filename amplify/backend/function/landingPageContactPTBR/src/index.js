@@ -14,7 +14,7 @@ exports.handler = async (event) => {
       Body: {
         Text: { Data: `Email: ${body.email}` },
       },
-      Subject: { Data: 'Landing Page - Contact' },
+      Subject: { Data: 'Landing Page - Contato' },
     },
     Source: 'gugazimmermann@gmail.com',
   });
