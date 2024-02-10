@@ -1,0 +1,26 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify9f6b252dbfa24-staging-193020-authRole",
+      "UnauthRoleArn": "arn:aws:iam::589202358368:role/amplify-amplify9f6b252dbfa24-staging-193020-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::589202358368:role/amplify-amplify9f6b252dbfa24-staging-193020-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplify9f6b252dbfa24-staging-193020-deployment",
+      "UnauthRoleName": "amplify-amplify9f6b252dbfa24-staging-193020-unauthRole",
+      "StackName": "amplify-amplify9f6b252dbfa24-staging-193020",
+      "StackId": "arn:aws:cloudformation:us-east-1:589202358368:stack/amplify-amplify9f6b252dbfa24-staging-193020/d452df00-c84a-11ee-8fc1-0ebd544e9413",
+      "AmplifyAppId": "d1wqus7d5usi9s"
+    },
+    "categories": {
+      "function": {
+        "landingPageContactPTBR": {
+          "deploymentBucketName": "amplify-amplify9f6b252dbfa24-staging-193020-deployment",
+          "s3Key": "amplify-builds/landingPageContactPTBR-795661796d4d6973526f-build.zip"
+        }
+      },
+      "api": {
+        "landingPageContactPTBR": {}
+      }
+    }
+  }
+}

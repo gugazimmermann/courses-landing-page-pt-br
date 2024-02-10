@@ -29,7 +29,7 @@ export default function Content() {
       return;
     }
     const endpoint =
-      'https://nnj1lvzvx3.execute-api.us-east-1.amazonaws.com/staging';
+      'https://ygdp6cwez1.execute-api.us-east-1.amazonaws.com/staging';
     const options = {
       method: 'POST',
       body: JSON.stringify({ email }),
@@ -39,7 +39,7 @@ export default function Content() {
       }),
     };
     try {
-      const res = await fetch(`${endpoint}/items`, options);
+      const res = await fetch(`${endpoint}/contact`, options);
       const response = await res?.json();
       if (response) setSuccess(true);
       else setError(true);
