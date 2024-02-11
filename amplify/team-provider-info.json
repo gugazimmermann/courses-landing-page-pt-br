@@ -15,7 +15,7 @@
       "function": {
         "landingPageContactPTBR": {
           "deploymentBucketName": "amplify-amplify9f6b252dbfa24-staging-193020-deployment",
-          "s3Key": "amplify-builds/landingPageContactPTBR-795661796d4d6973526f-build.zip"
+          "s3Key": "amplify-builds/landingPageContactPTBR-71524563345876357578-build.zip"
         }
       },
       "api": {
